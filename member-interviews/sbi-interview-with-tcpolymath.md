@@ -19,7 +19,7 @@ layout:
 
 To provide more interaction within Steem Basic Income (SBI), we are continuing our interviews with prominent members of SBI! We hope to bring a greater sense of community, get to know our members, and gain a better understanding of why Steemians are choosing to be a part of SBI.
 
-<figure><img src="https://steemitimages.com/DQmS2sV4UEKN2rUnjqwFoGbzpByzYgvAwswSV7xCZsZfMnT/SBI%20Member%20Interview.png" alt=""><figcaption><p>Graphic by <a href="https://steemit.com/@katysavage">@katysavage</a></p></figcaption></figure>
+<figure><img src="https://steemitimages.com/DQmS2sV4UEKN2rUnjqwFoGbzpByzYgvAwswSV7xCZsZfMnT/SBI%20Member%20Interview.png" alt=""><figcaption><p>Graphic by <a href="https://peakd.com/@katysavage"><code>@katysavage</code></a></p></figcaption></figure>
 
 ### Writer Intro: @ecoinstant
 
@@ -43,7 +43,7 @@ I spent a lot of 2018 on that, and I still think it would have been a great idea
 
 I'm still not sure just what it is that anyone here wants out of content; they seem to want it to magically attract enough people to pump the value of the coin without anyone ever doing any work to encourage it. The idea that you could attract quality content just by down-voting all the other stuff doesn't seem to be going very well.
 
-@ecoinstant: I originally reached out to you for an interview about your Mesopotamians project (and SBI), and found your [Reverse Dolphin](https://steempeak.com/steem/@tcpolymath/dolphin) article talking about powering down. I thought that was a very compelling author support model you had going, coupled with the power of SBI.
+@ecoinstant: I originally reached out to you for an interview about your Mesopotamians project (and SBI), and found your [Reverse Dolphin](https://steemit.com/steem/@tcpolymath/dolphin) article talking about powering down. I thought that was a very compelling author support model you had going, coupled with the power of SBI.
 
 @tcpolymath: When it became clear that particular vision wasn't where Steem was going, I would probably have just powered down and left, except that I had in the course of things been attracted by Steem Monsters. At that time the game was in a very clear down period, and market prices on cards were extremely appealing, so as my power-downs happened rather than going back into BTC to sit around doing nothing, they went into cheap cards.
 
