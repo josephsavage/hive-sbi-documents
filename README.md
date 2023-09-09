@@ -40,7 +40,9 @@ Gain inspiration from seeing how others are using Hive SBI to support their Hive
 [freecompliments.md](member-interviews/freecompliments.md)
 {% endcontent-ref %}
 
-### Previous SBI Interviews
+### SBI Member Interviews
+
+Before Hive SBI, there was Steem Basic Income. Here are the original interviews that were published on Steem.
 
 |                                               |                                                     |                                                 |
 | --------------------------------------------- | --------------------------------------------------- | ----------------------------------------------- |
