@@ -40,15 +40,13 @@ Gain inspiration from seeing how others are using Hive SBI to support their Hive
 [freecompliments.md](member-interviews/freecompliments.md)
 {% endcontent-ref %}
 
-{% content-ref url="member-interviews/tcpolymath.md" %}
-[tcpolymath.md](member-interviews/tcpolymath.md)
-{% endcontent-ref %}
-
-{% content-ref url="member-interviews/contrabourdon.md" %}
-[contrabourdon.md](member-interviews/contrabourdon.md)
-{% endcontent-ref %}
-
-{% content-ref url="member-interviews/enginewitty.md" %}
-[enginewitty.md](member-interviews/enginewitty.md)
-{% endcontent-ref %}
+| Previous                                      | SBI                                                 | Interviews                                      |
+| --------------------------------------------- | --------------------------------------------------- | ----------------------------------------------- |
+| [tcpolymath](member-interviews/tcpolymath.md) | [contrabourdon](member-interviews/contrabourdon.md) | [enginewitty](member-interviews/enginewitty.md) |
+| shadowspub                                    | freedompoint                                        | r2cornell                                       |
+| solominer                                     | mariannewest                                        | tattoodjay                                      |
+| rishi556                                      | jonnyla08                                           | ecoinstant                                      |
+| eturnerx                                      | josephsavage                                        | reinaldoverdu                                   |
+| holger80                                      | dosdudes                                            | improv                                          |
+| andrewharland                                 | f3nix                                               | dynamicgreentk                                  |
 
