@@ -2,9 +2,9 @@
 description: Originally published on 25 August 2023
 ---
 
-# 📜 Hive SBI Interview with @freecompliments
+# 📜 @freecompliments
 
-Welcome to Hive SBI's first member interview!
+## Welcome to Hive SBI's first member interview!
 
 To provide more interaction within Hive SBI, we are resuming our interviews with prominent members of Hive SBI. We hope to bring a greater sense of community, get to know our members, and gain a better understanding of why Hivers are choosing to be a part of Hive SBI.
 

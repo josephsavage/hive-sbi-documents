@@ -36,11 +36,15 @@ We've put together some helpful guides.
 
 Gain inspiration from seeing how others are using Hive SBI to support their Hive journeys!
 
-{% content-ref url="member-interviews/hive-sbi-interview-with-freecompliments.md" %}
-[hive-sbi-interview-with-freecompliments.md](member-interviews/hive-sbi-interview-with-freecompliments.md)
+{% content-ref url="member-interviews/freecompliments.md" %}
+[freecompliments.md](member-interviews/freecompliments.md)
 {% endcontent-ref %}
 
-{% content-ref url="member-interviews/sbi-interview-with-tcpolymath.md" %}
-[sbi-interview-with-tcpolymath.md](member-interviews/sbi-interview-with-tcpolymath.md)
+{% content-ref url="member-interviews/tcpolymath.md" %}
+[tcpolymath.md](member-interviews/tcpolymath.md)
+{% endcontent-ref %}
+
+{% content-ref url="member-interviews/enginewitty.md" %}
+[enginewitty.md](member-interviews/enginewitty.md)
 {% endcontent-ref %}
 

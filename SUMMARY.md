@@ -15,5 +15,6 @@
 
 ## Member Interviews
 
-* [📜 Hive SBI Interview with @freecompliments](member-interviews/hive-sbi-interview-with-freecompliments.md)
-* [📜 SBI Interview with @tcpolymath](member-interviews/sbi-interview-with-tcpolymath.md)
+* [📜 @freecompliments](member-interviews/freecompliments.md)
+* [📓 @tcpolymath](member-interviews/tcpolymath.md)
+* [📔 @enginewitty](member-interviews/enginewitty.md)

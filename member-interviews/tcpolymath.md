@@ -13,9 +13,9 @@ layout:
     visible: true
 ---
 
-# 📜 SBI Interview with @tcpolymath
+# 📓 @tcpolymath
 
-### Welcome to @steembasicincome's twenty-first member interview!
+## Welcome to @steembasicincome's twenty-first member interview!
 
 To provide more interaction within Steem Basic Income (SBI), we are continuing our interviews with prominent members of SBI! We hope to bring a greater sense of community, get to know our members, and gain a better understanding of why Steemians are choosing to be a part of SBI.
 
