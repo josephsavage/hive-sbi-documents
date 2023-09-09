@@ -32,7 +32,7 @@ We've put together some helpful guides.
 [pending-balances-and-upvote-delivery.md](fundamentals/pending-balances-and-upvote-delivery.md)
 {% endcontent-ref %}
 
-## Member Interviews
+## Hive SBI Member Interviews
 
 Gain inspiration from seeing how others are using Hive SBI to support their Hive journeys!
 
@@ -40,7 +40,9 @@ Gain inspiration from seeing how others are using Hive SBI to support their Hive
 [freecompliments.md](member-interviews/freecompliments.md)
 {% endcontent-ref %}
 
-| Previous                                      | SBI                                                 | Interviews                                      |
+### Previous SBI Interviews
+
+|                                               |                                                     |                                                 |
 | --------------------------------------------- | --------------------------------------------------- | ----------------------------------------------- |
 | [tcpolymath](member-interviews/tcpolymath.md) | [contrabourdon](member-interviews/contrabourdon.md) | [enginewitty](member-interviews/enginewitty.md) |
 | shadowspub                                    | freedompoint                                        | r2cornell                                       |
