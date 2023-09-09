@@ -17,4 +17,5 @@
 
 * [📜 @freecompliments](member-interviews/freecompliments.md)
 * [📓 @tcpolymath](member-interviews/tcpolymath.md)
+* [📒 @contrabourdon](member-interviews/contrabourdon.md)
 * [📔 @enginewitty](member-interviews/enginewitty.md)

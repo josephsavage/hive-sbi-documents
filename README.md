@@ -44,6 +44,10 @@ Gain inspiration from seeing how others are using Hive SBI to support their Hive
 [tcpolymath.md](member-interviews/tcpolymath.md)
 {% endcontent-ref %}
 
+{% content-ref url="member-interviews/contrabourdon.md" %}
+[contrabourdon.md](member-interviews/contrabourdon.md)
+{% endcontent-ref %}
+
 {% content-ref url="member-interviews/enginewitty.md" %}
 [enginewitty.md](member-interviews/enginewitty.md)
 {% endcontent-ref %}
