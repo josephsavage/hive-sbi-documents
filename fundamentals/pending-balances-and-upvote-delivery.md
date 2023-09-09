@@ -14,7 +14,7 @@ This is the actual value used to track your upvote values on Hive, and the metho
 
 ### Value Sources
 
-There are currently three sources of value that contribute to each member's pending upvote value. How each source works is more fully described in our [**FAQ**](https://steemit.com/steembasicincome/@steembasicincome/frequently-asked-questions), but the sources are _Standard Units_, _Bonus Units_, and _Enrollment Rewards_.
+There are currently three sources of value that contribute to each member's pending upvote value. How each source works is more fully described in our [**FAQ**](frequently-asked-questions.md), but the sources are _Standard Units_, _Bonus Units_, and _Enrollment Rewards_.
 
 #### Pending Value
 
